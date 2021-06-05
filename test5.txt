@@ -1,0 +1,15 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 3C05-2BA0
+
+ Directory of C:\git_test\test1
+
+06/05/2021  03:52 PM    <DIR>          .
+06/05/2021  03:52 PM    <DIR>          ..
+06/05/2021  03:49 PM                48 README.md
+06/05/2021  03:49 PM                29 test1.txt
+06/05/2021  03:49 PM                 7 test2.cpp
+06/05/2021  03:49 PM                 6 test3_branch1.cpp
+06/05/2021  03:49 PM                 8 test4.cpp
+06/05/2021  03:53 PM                 0 test5.txt
+               6 File(s)             98 bytes
+               2 Dir(s)  49,386,496,000 bytes free
